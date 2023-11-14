@@ -14,7 +14,6 @@ PostgreSQL
 
 ###### Data Science: 
 Python, Pandas, Numpy, Matplotlib, Seaborn, TensorFlow, Keras
-<br><br>
 
 ###### Некоторые реализованные проекты:
 
@@ -22,3 +21,5 @@ Python, Pandas, Numpy, Matplotlib, Seaborn, TensorFlow, Keras
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [Прогнозирование оттока клиентов в сети отелей](https://github.com/herouasfalta/05-hotel-reservation/blob/master/05-hotel-reservation.ipynb) | Задачей исследования была <br/>разработка системы предсказания <br/>отказа от брони | python, pandas, sklearn, matplotlib       |
 | 2.   | [Предсказание стоимости жилья](https://github.com/herouasfalta/06-houses-california1990/blob/master/06-houses-california1990.ipynb) | Обучение модели линейной <br/>регрессии на данных о <br/>жилье в Калифорнии | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
+
+<br><br>
