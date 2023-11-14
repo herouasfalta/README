@@ -6,7 +6,6 @@
 
 ### About me
 - Data Scientist
-- I'm looking for a job
 - I have more than 20 years of experience in the field of analytics: worked as a lawyer and analyzed standards rights, found the most optimal ways to work for clients
 
 
