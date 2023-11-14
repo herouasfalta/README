@@ -1,6 +1,5 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Maria :raising_hand: </h1>
-    <h3>I'm a Data Scientist</h3>
 </div>
 
 
